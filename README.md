@@ -9,8 +9,9 @@ A library to generate a BEV semantic map from scene attributes
 
 As the autonomous cars and other traffic agents move on the road, most of the time the reasoning does not need to account for height, making **Birds-Eye-View (BEV)** a sufficient representation.
 And there are many methods to create a bev road map. Here I will focus on how to generate a rough bev map from scene attribtues (See below figure).
-Given a list of scene attributes, we can generate a bird eye view map with semantic labels(road, cross walk, lane mark ... ).
-![](https://i.imgur.com/8UuxkcQ.png =500x)
+Given a list of scene attributes, we can generate a bird eye view map with semantic labels(road, cross walk, lane mark ... )
+
+![](https://i.imgur.com/8UuxkcQ.png )
 
 Here is the example from the paper ( ref. 1)
 ![](https://i.imgur.com/dPsNXAW.png)
