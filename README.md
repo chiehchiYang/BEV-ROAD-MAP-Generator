@@ -11,9 +11,10 @@ As the autonomous cars and other traffic agents move on the road, most of the ti
 And there are many methods to create a bev road map. Here I will focus on how to generate a rough bev map from scene attribtues (See below figure).
 Given a list of scene attributes, we can generate a bird eye view map with semantic labels(road, cross walk, lane mark ... )
 
-![](https://i.imgur.com/8UuxkcQ.png )
+![](https://i.imgur.com/8UuxkcQ.png =500x)
 
 Here is the example from the paper ( ref. 1)
+
 ![](https://i.imgur.com/dPsNXAW.png)
 
 ## Goal 
