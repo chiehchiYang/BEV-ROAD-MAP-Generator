@@ -14,8 +14,9 @@ Given a list of scene attributes, we can generate a bird eye view map with seman
 ![](https://i.imgur.com/8UuxkcQ.png =400x)
 
 
+### Here is the example from the paper ( ref. 1)
+![](https://i.imgur.com/dPsNXAW.png)
 
-![Here is the example from the paper ( ref. 1)](https://i.imgur.com/dPsNXAW.png)
 
 ## Goal 
 
